@@ -60,8 +60,7 @@
 
 {"description":"RS News Sports TV est la chaine  consacrée aux Sports et aux activités sportives....","sources":["https://alanza.iptv2022.com/RS_NEWS_SPORTS2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ3MTc5NDVf/RSNEWSSPORTS.png","title":"RS NEWS SPORTS TV"},
 
-{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg","title":"FOOTBALL"},
-
+{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL"},
 
 {"description":"Dash Sports entertainment est une chaine televisee 100% sports du cameroune","sources":["https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","title":"DASH SPORTS"},
 
@@ -93,7 +92,7 @@
 
 {"description":"Players Sports est une chaîne télévisée spécialisée au sports international.","sources":["https://playerstv-samsungca.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjc5Mjg2Nzdf/playerstv.png","title":"PLAY SPORTS"},
 
-{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://213.183.47.50:2085/play/a0dv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
+{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
 
 {"description":"FootBall Live TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://loga.ultratotal.ml/xls/ligota/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL LIVE TV"},
 
