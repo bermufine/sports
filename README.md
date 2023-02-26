@@ -34,8 +34,6 @@
 {"description":"MATCH est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://103.145.13.31/5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH 6"},
 
 
-
-
 {"description":"BeIn Sports 3 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les 3,5 millions d'abonnés...","sources":["http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MDZf/beintree.png","title":"BEIN 3"},
 
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://s13.tntendirect.com/lequipe21/live/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / FRANCE"},
@@ -62,10 +60,12 @@
 
 {"description":"RS News Sports TV est la chaine  consacrée aux Sports et aux activités sportives....","sources":["https://alanza.iptv2022.com/RS_NEWS_SPORTS2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ3MTc5NDVf/RSNEWSSPORTS.png","title":"RS NEWS SPORTS TV"},
 
+{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg","title":"FOOTBALL"},
+
+
 {"description":"Dash Sports entertainment est une chaine televisee 100% sports du cameroune","sources":["https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","title":"DASH SPORTS"},
 
-
-{"description":"B-Sports 9 est une chaîne télévisée spécialisée au sports international.","sources":["http://93.152.174.144:4000/play/btsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg","title":"B-SPORTS 9"},
+{"description":"B-Sports 9 est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg","title":"B-SPORTS 9"},
 
 {"description":"FOX SPORTS 2 est la chaine sportive des Etats-Unies qui se focalise au championnat International et Americain aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NzEwMTBf/foxtwo.png","title":"FOX SPORTS 2"},
 
