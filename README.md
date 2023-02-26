@@ -1,5 +1,5 @@
 # sports
-{"categories":[{"name":"Movies","videos":[{"description":"Premier League Englad est la chaine sportive consacrée au championnat de l'Angleterre aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://s@hdstreamss.club:30443/live/abr_ch5/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"PREMIER LEAGUE / BARCLAY"},
+{"categories":[{"name":"Movies","videos":[{"description":"Canal+ Premier Ligue Englad est la chaine sportive consacrée au championnat de l'Angleterre aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://162.19.67.213:49214/CANAL_PLUS_PREMIER_LEAGUE/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"CANAL+ / PREMIER LIGUE"},
 
 {"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.83.71.210/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
