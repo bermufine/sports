@@ -8,7 +8,7 @@
 
 {"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.83.71.210/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
-{"description":"RMC 1 TV est la chaine sportive de la France qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://s@hdstreamss.club:30443/live/abr_ch8/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"RMC 1"},
+{"description":"Digi Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"DIGI SPORTS"},
 
 {"description":"RMC 2 TV est la chaine sportive de la France qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://s@hdstreamss.club:30443/live/abr_ch3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"RMC 2"},
 
