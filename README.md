@@ -9,6 +9,8 @@
 
 {"description":"Digi Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"DIGI SPORTS"},
 
+{"description":"Digi Sports 3 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium402/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"DIGI SPORTS 3"},
+
 {"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8?token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjVf/foxsportone.jpeg","title":"FOX SPORTS 1"},
 
 {"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjZf/foxsportsone.jpeg","title":"FOX SPORTS 1 / LIEN 2"},
