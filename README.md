@@ -11,7 +11,20 @@
 
 {"description":"Digi Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"DIGI SPORTS"},
 
-{"description":"Digi Sports 3 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium402/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"DIGI SPORTS 3"},
+{"description":"Digi Sports 3 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium402/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTdf/DIGISPORT3.png","title":"DIGI SPORTS 3"},
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 {"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8?token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjVf/foxsportone.jpeg","title":"FOX SPORTS 1"},
 
@@ -29,11 +42,11 @@
 
 {"description":"Eleven Sport 3 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium457/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODczMzMzMTFf/eleventree.png","title":"ELEVEN 3 / LIEN 2"},
 
-{"description":"Eleven Sport 2 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium456/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODczMzMzMTFf/eleventree.png","title":"ELEVEN SPORT 2"},
+{"description":"Eleven Sport 2 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium456/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTRf/Eleven2.png","title":"ELEVEN SPORT 2"},
 
-{"description":"Estado TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"ESTADO TV"},
+{"description":"Estado TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3NTVf/estado.jpeg","title":"ESTADO TV"},
 
-{"description":"MATCH 1 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium451/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"VIAPLAY SPORTS TV"},
+{"description":"ViaPlay Sport TV est la chaine sportive international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium451/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3MjBf/viasports.jpeg","title":"VIAPLAY SPORTS TV"},
 
 {"description":"PL TV est la chaine sportive qui se focalise au championnat Angleterre aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://82.118.0.14:8000/play/5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODczMzM5MTRf/premierLigue.jpeg","title":"PREMIER LEAGUE"},
 
