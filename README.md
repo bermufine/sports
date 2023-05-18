@@ -2,7 +2,9 @@
 {"categories":[{"name":"Movies","videos":[{"description":"Trace Sports est une 
 chaîne télévisée spécialisée au sports international.","sources":["https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","title":"Trace Sports"},
 
-{"description":"Novs Sports est une chaine en characters sportifs","sources":["http://204.12.247.162:8080/premium480/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"NOVA SPORTS"},
+{"description":"S-Sports 1 est une chaine en characters sportifs","sources":["http://49.12.123.148:8989/22/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"S-SPORTS 1"},
+
+{"description":"S-Sports 2 est une chaine en characters sportifs","sources":["http://49.12.123.148:8989/25/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"S-SPORTS 2"},
 
 {"description":"BeIn Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les 3,5 millions d'abonnés...","sources":["http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png","title":"BEIN 1 / LIEN 2"},
 
@@ -16,44 +18,19 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"TRT SPOR 2 est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/43/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
-A SPOR HD
+{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://135.125.234.9:8081/cbcsport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
 
-http://49.12.123.148:8989/10/hls/playlist.m3u8
-
-S SPORT
-
-http://49.12.123.148:8989/22/hls/playlist.m3u8
-
-S SPORT 2
-
-http://49.12.123.148:8989/25/hls/playlist.m3u8 
-
-EUROSPORT 1 HD
-
-http://49.12.123.148:8989/67/hls/playlist.m3u8
-
-SPORTS TV HD
-
-http://49.12.123.148:8989/69/hls/playlist.m3u8
-
-EUROSPORT 2 HD
-
-http://49.12.123.148:8989/77/hls/playlist.m3u8
-
-NBA TV HD
-
-http://49.12.123.148:8989/82/hls/playlist.m3u8 
-
-EDGE SPORT HD
-
-http://49.12.123.148:8989/83/hls/playlist.m3u8
+{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://49.12.123.148:8989/10/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},  
  
+{"description":"NBA TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/82/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"NBA TV"},
 
-{"description":"Digi Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"DIGI SPORTS"},
+{"description":"Edge Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/83/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTdf/DIGISPORT3.png","title":"EDGE SPORTS"},
 
-{"description":"Digi Sports 3 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://204.12.247.162:8080/premium402/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTdf/DIGISPORT3.png","title":"DIGI SPORTS 3"},
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://49.12.123.148:8989/77/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
 
-{"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8?token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjVf/foxsportone.jpeg","title":"FOX SPORTS 1"},
+{"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://49.12.123.148:8989/67/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 2"},
+
+{"description":"Sports HD TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/69/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjVf/foxsportone.jpeg","title":"FOX SPORTS HD TV"},
 
 {"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjZf/foxsportsone.jpeg","title":"FOX SPORTS 1 / LIEN 2"},
 
@@ -92,12 +69,6 @@ http://49.12.123.148:8989/83/hls/playlist.m3u8
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://s13.tntendirect.com/lequipe21/live/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / FRANCE"},
 
 {"description":"BeIn Sports 4 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les 3,5 millions d'abonnés...","sources":["http://89.38.99.141/4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5NzNf/beinfour","title":"BEIN 4"},
-
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://193.111.244.35:8001/eurosport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
-
-{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://135.125.234.9:8081/cbcsport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
-
-{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://135.125.234.9:8081/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
 
 {"description":"axs tv est chaine televisee consacree aux sports de Combats..","sources":["https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDI5Mzlf/axstv.png","title":"AXS TV"},
 
