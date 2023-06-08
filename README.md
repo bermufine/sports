@@ -6,7 +6,7 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Astro Super Sports 1 est une chaine en characters sportifs","sources":["http://198.16.100.90:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"ASTRO SUPER SPORTS 1"},
 
-{"description":"Real Madrid est une chaine en characters sportifs","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"REAL MADRID"},
+{"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
 
 {"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"TIGO SPORTS TV"},
 
@@ -15,6 +15,12 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 {"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://143.244.60.30/Fox_Sports_1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjZf/foxsportsone.jpeg","title":"FOX SPORTS 1 / LIEN 2"},
 
 {"description":"ViaPlay Sport TV est la chaine sportive international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3MjBf/viasports.jpeg","title":"VIAPLAY SPORTS TV"},
+
+{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/94/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
+
+{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/95/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS 2"},
+
+{"description":"Sports Live TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/94/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"SPORTS LIVE TV"},
 
 {"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://94.250.2.6:7374/play/a02n/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjJf/ArenaSport3.png","title":"ARENA SPORTS 2"},
 
@@ -126,13 +132,7 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Sports TV est la chaine sportive qui se focalise aux sports general international.","sources":["http://93.152.174.144:4000/play/barcatv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0NjZf/barca","title":"SPORTS TV"},
 
-{"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://bit.ly/RealMadridtv?/chunklist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
-
 {"description":"Players Sports est une chaîne télévisée spécialisée au sports international.","sources":["https://playerstv-samsungca.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjc5Mjg2Nzdf/playerstv.png","title":"PLAY SPORTS"},
-
-{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://217.174.225.146/hls/ch004_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
-
-{"description":"FootBall Live TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://loga.ultratotal.ml/xls/ligota/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL LIVE TV"},
 
 {"description":"B-Sports 1 est une chaîne télévisée spécialisée au sports international.","sources":["https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3NzNf/b_sport1.jpg","title":"B-Sports 1"},
 
