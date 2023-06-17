@@ -42,13 +42,13 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"MATCH 6 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH 6"},
 
-{"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/8/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
+{"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://66.160.192.241/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
 {"description":"TRT SPOR 2 est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/43/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
-{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://135.125.234.9:8081/cbcsport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
+{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
 
-{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://49.12.123.148:8989/10/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},  
+{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},  
  
 {"description":"Edge Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/83/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTdf/DIGISPORT3.png","title":"EDGE SPORTS"},
 
