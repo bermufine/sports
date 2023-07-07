@@ -16,9 +16,18 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"ViaPlay Sport TV est la chaine sportive international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3MjBf/viasports.jpeg","title":"VIAPLAY SPORTS TV"},
 
-{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/94/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
+{"description":"Canal+ Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a01y/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ SPORTS"},
 
-{"description":"Setana Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/95/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS 2"},
+{"description":"Canal+ 1 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["
+http://149.62.183.207:4000/play/a02s/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 1"},
+
+{"description":"Canal+ 2 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02t/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 2"},
+
+{"description":"Canal+ 3 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02n/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 3"},
+
+{"description":"Canal+ 4 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02o/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 4"},
+
+{"description":"Canal+ 5 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02p/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 5"},
 
 {"description":"Sports Live TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/94/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"SPORTS LIVE TV"},
 
