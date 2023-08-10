@@ -6,30 +6,15 @@
 {"description":"Trace Sports est une 
 chaîne télévisée spécialisée au sports international.","sources":["https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","title":"Trace Sports"},
 
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://49.12.123.148:8989/77/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
+
 {"description":"Astro Super Sports 1 est une chaine en characters sportifs","sources":["http://198.16.100.90:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjBf/Novasports.jpeg","title":"ASTRO SUPER SPORTS 1"},
 
 {"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
 
 {"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"TIGO SPORTS TV"},
 
-{"description":"Sports HD TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjVf/foxsportone.jpeg","title":"FOX SPORTS 2 HD TV"},
-
-{"description":"Fox Sports 1 TV est la chaine sportive qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4NjZf/foxsportsone.jpeg","title":"FOX SPORTS 1 / LIEN 2"},
-
 {"description":"ViaPlay Sport TV est la chaine sportive international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3MjBf/viasports.jpeg","title":"VIAPLAY SPORTS TV"},
-
-{"description":"Canal+ Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a01y/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ SPORTS"},
-
-{"description":"Canal+ 1 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["
-http://149.62.183.207:4000/play/a02s/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 1"},
-
-{"description":"Canal+ 2 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02t/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 2"},
-
-{"description":"Canal+ 3 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02n/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 3"},
-
-{"description":"Canal+ 4 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02o/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 4"},
-
-{"description":"Canal+ 5 Sports TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://149.62.183.207:4000/play/a02p/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"CANAL+ 5"},
 
 {"description":"Sports Live TV est la chaine consacrée aux Sports et aux activités de l'équipe....","sources":["http://94.158.54.107/94/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"SPORTS LIVE TV"},
 
@@ -55,20 +40,9 @@ http://149.62.183.207:4000/play/a02s/index.m3u8"],"subtitle":"By Channel","thumb
 
 {"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://66.160.192.241/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
-{"description":"TRT SPOR 2 est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/43/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
+{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE"},
 
-{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
-
-{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},  
- 
-{"description":"Edge Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://49.12.123.148:8989/83/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ2OTdf/DIGISPORT3.png","title":"EDGE SPORTS"},
-
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://49.12.123.148:8989/77/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
-
-{"description":"360 Eurosports 1 est une chaine televisee 100% sports","sources":["
-http://162.19.18.141:49214/EUROSPORT_360_1/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"360 EUROSPORTS 1"},
-
-{"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://49.12.123.148:8989/67/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 2"},
+{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
 
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
 
