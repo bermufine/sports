@@ -91,5 +91,12 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
 
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
 
-{"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"}]}]}
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 2"},
+
+{"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"},
+
+{"description":"Sports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/sport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
+
+{"description":"Sports 2 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/sport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 2"}]}]}
