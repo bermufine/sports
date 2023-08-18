@@ -5,9 +5,9 @@
 
 {"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://193.95.53.129:8080/WWE/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
 
-{"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
-
 {"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING SPORTS 2"},
+
+{"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
 
 {"description":"Nova Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODRf/novasports1.png","title":"NOVA SPORTS 1"},
 
@@ -15,13 +15,13 @@
 
 {"description":"Nova Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTFf/novasports3.png","title":"NOVA SPORTS 3"},
 
-{"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png","title":"NOVA SPORTS 4"},
+{"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport4/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png","title":"NOVA SPORTS 4"},
+
+{"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0NDA1NDJf/tigosports.jpeg","title":"TIGO SPORTS"},
 
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 1"},
 
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 2"},
-
-{"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0NDA1NDJf/tigosports.jpeg","title":"TIGO SPORTS"},
 
 {"description":"MATCH est la chaine sportive de la russie qui se focalise au championnat ive ive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH TV"},
 
