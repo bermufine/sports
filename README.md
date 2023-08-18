@@ -14,13 +14,13 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"TIGO SPORTS TV"},
 
-{"description":"Nova Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"NOVA SPORTS 1"},
+{"description":"Nova Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODRf/novasports1.png","title":"NOVA SPORTS 1"},
 
-{"description":"Nova Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"NOVA SPORTS 2"},
+{"description":"Nova Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODlf/novasports2.png","title":"NOVA SPORTS 2"},
 
-{"description":"Nova Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"NOVA SPORTS 3"},
+{"description":"Nova Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTFf/novasports3.png","title":"NOVA SPORTS 3"},
 
-{"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0NTY4MzRf/digisport.jpeg","title":"NOVA SPORTS 4"},
+{"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png","title":"NOVA SPORTS 4"},
 
 {"description":"ViaPlay Sport TV est la chaine sportive international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3MjBf/viasports.jpeg","title":"VIAPLAY SPORTS TV"},
 
@@ -60,13 +60,11 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Fights Sports Sports est la chaine sportive des Etats-Unies qui se focalise au championnat International et Americain aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg","title":"FIGHTS TV / SPORTS"},
 
-{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL"},
-
-
-
-{"description":"Dash Sports entertainment est une chaine televisee 100% sports du cameroune","sources":["https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","title":"DASH SPORTS"},
+{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL"},
 
 {"description":"Lax Sports Network est une chaîne télévisée spécialisée au sports international.","sources":["https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg","title":"LAX SPORTS NETWORK"},
+
+{"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
 
 {"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING SPORTS 2"},
 
@@ -86,11 +84,9 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Abu Dhabi Sports ou AD Sports (arabe : أبوظبي الرياضيّة‎) est une chaîne de télévision arabe. Elle diffuse depuis Abu Dhabi, capitale des Émirats arabes unis et appartient à Abu Dhabi Media Abu Dhabi Sports Channel est une chaîne satellitaire arabe des Émirats arabes unis diffusée depuis Abu Dhabi.","sources":["http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg5MjFf/adtwo.jpg","title":"ADSPORTS 2"},
 
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1"},
 
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
-
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 2"},
+{"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
 
 {"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"},
 
