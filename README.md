@@ -23,11 +23,9 @@
 
 {"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport4/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png","title":"NOVA SPORTS 4"},
 
-
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://151.248.16.100:4444/Eurosport1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1"},
 
 {"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://151.248.16.100:4444/Eurosport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
-
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"SPORTS FRANCE"},
 
@@ -102,6 +100,6 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"},
 
-{"description":"Sports 1 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/sport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
+{"description":"Sports 1 est une chaine televisee 100% sports","sources":[ https://hls.newworldtv.com/nw-sport-2/video/live.m3u8""],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
 
-{"description":"Sports 2 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/sport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 2"}]}]}
+{"description":"Sports 2 est une chaine televisee 100% sports","sources":["http://hls.newworldtv.com/nw-sport-1/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 2"}]}]}
