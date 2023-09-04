@@ -27,7 +27,7 @@
 
 {"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://151.248.16.100:4444/Eurosport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
 
-{"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"SPORTS FRANCE"},
+{"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"SPORTS FRANCE"},
 
 {"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0NDA1NDJf/tigosports.jpeg","title":"TIGO SPORTS"},
 
