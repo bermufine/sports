@@ -1,10 +1,6 @@
 # sports
 {"categories":[{"name":"Movies","videos":[{"description":"Sports Heigh Light est la chaine sportive qui se focalise aux des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OSHLTENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"SPORTS HIGH LIGHT"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS1TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
-
-{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS2TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
-
 {"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
 
 {"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://151.248.16.100:4444/ESPN1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 1"},
@@ -29,12 +25,6 @@
 
 {"description":"Nova Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport4/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0OTJf/novasports4.png","title":"NOVA SPORTS 4"},
 
-{"description":"Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS3TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
-
-{"description":"Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS4TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MjZf/sportfour.png","title":"SPORTS 4"},
-
-{"description":"Sports 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS5TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MjRf/sportfive.png","title":"SPORTS 5"},
-
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://151.248.16.100:4444/Eurosport1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1"},
 
 {"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://151.248.16.100:4444/Eurosport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
@@ -47,19 +37,11 @@
 
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 2"},
 
-{"description":"Sports 6 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS6TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTlf/sportsix.png","title":"SPORTS 6"},
-
-{"description":"Sports 7 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS7TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTVf/sportseven.png","title":"SPORTS 7"},
-
 {"description":"MATCH est la chaine sportive de la russie qui se focalise au championnat ive ive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH TV"},
 
 {"description":"MATCH 3 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH 3"},
 
 {"description":"MATCH 4 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH 4"},
-
-{"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS8TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTFf/sportseight.png","title":"SPORTS 8"},
-
-{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OS9TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MDhf/sportnine.png","title":"SPORTS 9"},
 
 {"description":"MATCH 5 est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH 5"},
 
