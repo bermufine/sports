@@ -98,6 +98,8 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
 
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4361"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
+
 {"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"},
 
 {"description":"Sports 1 est une chaine televisee 100% sports","sources":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
@@ -105,8 +107,6 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 {"description":"Sports 2 est une chaine televisee 100% sports","sources":["http://hls.newworldtv.com/nw-sport-1/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 2"},
 
 {"description":"Sports Heigh Light est la chaine sportive qui se focalise aux des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OSHLTENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"SPORTS HIGH LIGHT"},
-
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://141.95.157.157:8081/OS1TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
 
 {"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://141.95.157.157:8081/OS2TENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
 
