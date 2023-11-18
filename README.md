@@ -1,9 +1,9 @@
 # sports
 {"categories":[{"name":"Movies","videos":[{"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV1/index.m3u8?&token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
 
-{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
+{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV2/index.m3u8?&token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
 
 {"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4361"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
 
