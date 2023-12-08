@@ -88,7 +88,9 @@
 {"description":"Trace Sports est une 
 chaîne télévisée spécialisée au sports international.","sources":["https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","title":"Trace Sports"},
 
-{"description":"Bein Extras TV est la chaine  consacrée aux Sports et aux activités sportives....","sources":["https://siloh-mcdn.plutotv.net/lilo/production/BEIN/ES/master_1.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour","title":"Bein EXTRAS"},
+{"description":"Bein Extras TV est la chaine  consacrée aux Sports et aux activités sportives....","sources":["http://136.175.8.181:18000/c25390e50e2b4849bc34ed742f92175a/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour","title":"Bein EXTRAS 1"},
+
+{"description":"Bein Extras TV est la chaine  consacrée aux Sports et aux activités sportives....","sources":["https://siloh-mcdn.plutotv.net/lilo/production/BEIN/ES/master_1.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour","title":"Bein EXTRAS 2"},
 
 {"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39226.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 2"},
 
