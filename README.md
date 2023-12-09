@@ -65,12 +65,6 @@
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"SPORTS FRANCE"},
 
-
-
-
-
-
-
 {"description":"BeIn Sports 6 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/32012.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTlf/sportsix.png","title":"BEIN SPORTS 6 SD"},
 
 {"description":"BeIn Sports 6 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9142.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MjZf/sportfour.png","title":"BEIN SPORTS 6 HD"},
@@ -108,9 +102,14 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE"},
 
-{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"}]}]}
+{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
 
-{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108537.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MDhf/sportnine.png","title":" CANAL+ TOP14 FHD"},
+
+
+
+
+
+{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108537.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MDhf/sportnine.png","title":"CANAL+ TOP14 FHD"},
 
 {"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125119.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTFf/sportseight.png","title":"CANAL+ FORMULA1 HD"},
 
@@ -160,7 +159,7 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Abu Dhabi Sports ou AD Sports (arabe : أبوظبي الرياضيّة‎) est une chaîne de télévision arabe. Elle diffuse depuis Abu Dhabi, capitale des Émirats arabes unis et appartient à Abu Dhabi Media Abu Dhabi Sports Channel est une chaîne satellitaire arabe des Émirats arabes unis diffusée depuis Abu Dhabi.","sources":["http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg5MjFf/adtwo.jpg","title":"ADSPORTS 2"},
 
-{"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"},
+{"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA / BRASIL"},
 
 {"description":"Sports 1 est une chaine televisee 100% sports","sources":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
 
@@ -168,4 +167,4 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Sports Heigh Light est la chaine sportive qui se focalise aux des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OSHLTENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"SPORTS HIGH LIGHT"},
 
-{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15147.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MDhf/sportnine.png","title":"CANAL+ MOTO GP FHD"}
+{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15147.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MDhf/sportnine.png","title":"CANAL+ MOTO GP FHD"}]}]}
