@@ -3,6 +3,8 @@
 
 {"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/136367.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT"},
 
+{"description":"Super sports 2","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"SUPER SPORTS 2"},
+
 {"description":"BeIn Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/124099.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png","title":"BEIN FRENCH 1 HD"},
 
 {"description":"BeIn Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["https://stream.ayas.ir/hls2/bein1en.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png","title":"BEIN 1"},
@@ -15,9 +17,23 @@
 
 {"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
 
-{"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://151.248.16.100:4444/ESPN1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 1"},
+{"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 1"},
 
-{"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://151.248.16.100:4444/ESPN2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"ESPN 2"},
+{"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-032/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 1"},
+
+{"description":"ESPN 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN2_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"ESPN 2"},
+
+{"description":"ESPN 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-033/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"ESPN 2"},
+
+{"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN3_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 3"},
+
+{"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 3"},
+
+{"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN4_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 4"},
+
+{"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 3"},
+
+{"description":"ESPN Extras est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN_EXTRA_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN EXTRAS"},
 
 {"description":"Sports 7 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108268.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MTVf/sportseven.png","title":"CANAL+ LIGUE 1 FHD"},
 
@@ -31,7 +47,7 @@
 
 {"description":"BeIn Sports 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/124097.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MThf/beintwo.png","title":"BEIN FRENCH 2 HD"},
 
-{"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://193.95.53.129:8080/WWE/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
+{"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://136.175.8.181:18000/0def8e4bdd2c457a83d1ebeb43d80376/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
 
 {"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING SPORTS 2"},
 
@@ -156,11 +172,9 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA / BRASIL"},
 
-{"description":"Sports 1 est une chaine televisee 100% sports","sources":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 1"},
+{"description":"Fox Sports 1 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-010/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"FOX SPORTS 1"},
 
-{"description":"Sports 2 est une chaine televisee 100% sports","sources":["http://hls.newworldtv.com/nw-sport-1/video/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"SPORTS 2"},
-
-{"description":"Sports Heigh Light est la chaine sportive qui se focalise aux des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://141.95.157.157:8081/OSHLTENNIS/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"SPORTS HIGH LIGHT"},
+{"description":"Fox Sports 2 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"FOX SPORTS 2"},
 
 {"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15147.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxOTZf/canal%2BMotoGp.png","title":"CANAL+ MOTO GP"},
 
@@ -168,12 +182,13 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport2hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"DIEMA SPORTS 2"},
 
-{"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport3hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"DIEMA SPORTS 3"}
+{"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport3hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"DIEMA SPORTS 3"},
+
+{"description":"RTSH Sports est la chaine sportive qui se focalise aux Sports....","sources":["http://79.106.48.2:5151/live/rtshsport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"RTSH SPORTS"},
+
+{"description":"TYC Sports  est la chaine sportive qui se focalise au championnat Americain avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-005/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"TYC SPORTS"}]}]}
 
 
-
-
-]}]}
 
 
 
