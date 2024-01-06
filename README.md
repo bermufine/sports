@@ -1,18 +1,29 @@
 # sports
-{"categories":[{"name":"Movies","videos":[{"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://51.254.199.122:8080/r1mc/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
+{"categories":[{"name":"Movies","videos":[{"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/524/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
 
-{"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://51.254.199.122:8080/r2mc/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
+{"description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/525/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png","title":"RMC 2"},
 
-{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://51.254.199.122:8080/r3mc/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
+{"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/526/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
 
 {"description":"Cnala+ Premier 
 league Angleterre est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125118.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"CANAL+ PREMIER LEAGUE HD"},
 
-{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/plus-Sp0rt1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
+{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/537/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
 
-{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/plus-Sp0rt2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 2"},
+{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/538/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 2"},
 
-{"description":"Canal+ Foot 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://51.254.199.122:8080/plus-Sp0rt3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
+{"description":"Canal+ Foot 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/342/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
+
+{"description":"Amazon Prime 1 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/516/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"AMAZON PRIME 1"},
+
+{"description":"Amazon Prime 2 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/517/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"AMAZON PRIME 2"},
+
+{"description":"Amazon Prime 3est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/518/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"AMAZON PRIME 3"},
+
+
+
+
+
 
 {"description":"Canal+ Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39203.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTNf/canal%2BSport.png","title":"CANAL+ SPORT"},
 
@@ -28,7 +39,7 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"BeIn Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...","sources":["https://edge02.odtv.az/o4/beinsport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxMDJf/beinOneExtra.png","title":"BEIN 1 EXTRA"},
 
-{"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
+{"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRID"},
 
 {"description":"ESPN est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://186.237.99.10/ESPN_HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDNf/espn.jpeg","title":"ESPN 1"},
 
