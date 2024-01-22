@@ -1,5 +1,5 @@
 # sports
-{"categories":[{"name":"Movies","videos":[{"description":"La 3....","sources":["http://69.64.57:208/la3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"LA 3"},
+{"categories":[{"name":"Movies","videos":[{"description":"La 3 TV","sources":["http://69.64.57:208/la3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png","title":"LA 3"},
 
 {"description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/524/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg","title":"RMC 1"},
 
