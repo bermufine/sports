@@ -169,11 +169,11 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Eurosports 2 est une chaine televisee 100% sports","sources":["http://185.188.188.235/live/eurosport2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODZf/eurosports2.jpeg","title":"EUROSPORTS 2"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV1/index.m3u8?&token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/aiosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzZf/sportone.png","title":"SPORTS 1"},
 
-{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://50.7.137.106:8080/SPORT_TV2/index.m3u8?&token=test"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
+{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/aiosport2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4361"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/persiana.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
 
 {"description":"Nova Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://185.188.188.235/live/novasport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODRf/novasports1.png","title":"NOVA SPORTS 1"},
 
@@ -217,7 +217,7 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"TYC Sports  est la chaine sportive qui se focalise au championnat Americain avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-005/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTdf/tycSport.jpeg","title":"TYC SPORTS"},
 
-{"description":"Super sports 2","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"},
+{"description":"Super sports 2","sources":["http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"},
 
 {"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"}]}]}
 
