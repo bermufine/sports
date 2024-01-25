@@ -154,18 +154,31 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 
 
-{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a08h/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 1"},
+{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a06f/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 1"},
 
-{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 2"},
+{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a092/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 2"},
 
 
-{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 3"},
+{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a08h/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 3"},
 
-{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 4"},
+{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a072/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 4"},
 
 
 ]}]}
 
+
+beIN PRIM HD 1
+
+
+
+ beIN PRIM HD 2
+
+
+beIN PRIM HD 3
+
+
+
+ beIN SPORT 4
 
 
 
