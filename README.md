@@ -149,7 +149,22 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/aiosport2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/persiana.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"}]}]}
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/persiana.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
+
+
+
+
+{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a08h/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 1"},
+
+{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 2"},
+
+
+{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 3"},
+
+{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 4"},
+
+
+]}]}
 
 
 
