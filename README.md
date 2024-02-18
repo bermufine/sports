@@ -40,6 +40,12 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://136.175.8.181:18000/0def8e4bdd2c457a83d1ebeb43d80376/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
 
+{"description":"Wrestling WWE GLOBAL est une chaîne télévisée spécialisée au sports international.","sources":["http://77.137.35.165:8000/play/a07v/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WWE GLOBAL"},
+
+{"description":"WWE NEXT est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE NEXT"},
+
+{"description":"WWE RAWE est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07w/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE RAW"},
+
 {"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING 2"},
 
 {"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
