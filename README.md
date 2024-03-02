@@ -86,13 +86,6 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"ORT1 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/ort-tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"ORT1 TV"},
 
-
-
-
-
-
-
-
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diamasporthd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NzBf/diemaSport.jpg","title":"DIEMA SPORTS 1"},
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport2hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTBf/diemasport2.jpg","title":"DIEMA SPORTS 2"},
@@ -162,8 +155,6 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"Fights Sports Sports est la chaine sportive des Etats-Unies qui se focalise au championnat International et Americain aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg","title":"FIGHTS TV"},
 
-
-
 {"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108537.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxMjlf/canal%2BTopQuatorze.jpeg","title":"CANAL+ TOP14 FHD"},
 
 {"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125119.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxNTdf/canal%2BFormulaOne.jpeg","title":"CANAL+ FORMULA1 HD"},
@@ -197,7 +188,14 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"FOX SPORTS MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-031/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX MAX 2"},
 
-{"description":"FOX SPORTS MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX MAX 3"}
+{"description":"FOX SPORTS MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX MAX 3"},
+
+{"description":"ESPN MAX est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-032/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX"},
+
+{"description":"ESPN MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-033/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX 2"},
+
+{"description":"ESPN MAX 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX 3"},
+
 
 
 ]}]}
