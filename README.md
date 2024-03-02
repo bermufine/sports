@@ -42,6 +42,8 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://136.175.8.181:18000/0def8e4bdd2c457a83d1ebeb43d80376/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
 
+{"description":"UFCNETWORK  est une chaine televisee 100% sports","sources":["https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"UFCNETWORK "},
+
 {"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
 
 {"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39203.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
@@ -196,7 +198,6 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"ESPN MAX 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX 3"},
 
-
 {"description":"SSC 1 HD est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a05x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 1HD"},
 
 {"description":"SSC 1 EXTRAS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a07g/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 1 EXTRAS"},
@@ -219,10 +220,12 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"T-ONE 5 SPORT HD est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a08w/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"T-ONE 5 SPORT HD"},
 
+{"description":"TNT SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS 1"},
 
+{"description":"BT SPORT 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
 
+{"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 3"}]}]}
 
-]}]}
 
 
 
