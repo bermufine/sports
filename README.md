@@ -48,14 +48,6 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
 
-{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39203.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
-
-{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport2.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 2"},
-
-{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport3.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
-
-{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport4.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 4"},
-
 {"description":"Fox Sports 1 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-010/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk2Njlf/foxSport1.png","title":"FOX SPORTS 1"},
 
 {"description":"Fox Sports 2 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk0NzNf/foxSport2.jpeg","title":"FOX SPORTS 2"},
@@ -212,7 +204,19 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 3"},
 
-{"description":"REDBULL TV est la chaine sportive qui se focalise aux Sports..","sources":["https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"REDBULL TV"}]}]}
+{"description":"REDBULL TV est la chaine sportive qui se focalise aux Sports..","sources":["https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"REDBULL TV"},
+
+{"description":"NBA TV est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/nba/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"NBA HD"},
+
+{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"},
+
+{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"},
+
+{"description":"Fox Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/foxsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORTS 2"},
+
+{"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"}
+
+{"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"}]}]}
 
 
 
@@ -221,6 +225,15 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 
 
+
+
+{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39203.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
+
+{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport2.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 2"},
+
+{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport3.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
+
+{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport4.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 4"},
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diamasporthd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NzBf/diemaSport.jpg","title":"DIEMA SPORTS 1"},
 
