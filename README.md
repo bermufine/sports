@@ -24,13 +24,21 @@
 {"description":"RMC 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://145.239.5.177:8080/526/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png","title":"RMC 3"},
 
 {"description":"Cnala+ Premier 
-league Angleterre est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125118.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"CANAL+ PREMIER LEAGUE HD"},
+league Angleterre est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125118.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"CANAL+ PREMIER LEAGUE"},
 
 {"description":"Amazon Prime 1 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/516/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMDhf/AmazonSportOne.jpg","title":"AMAZON PRIME 1"},
 
 {"description":"Amazon Prime 2 est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/517/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMTFf/AmazonSpostTwo.jpg","title":"AMAZON PRIME 2"},
 
 {"description":"Amazon Prime 3est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/518/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMTJf/AmazonSportThree.jpg","title":"AMAZON PRIME 3"},
+
+{"description":"BT SPORT 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS 2"},
+
+{"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS 3"},
+
+{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://99.27.51.147:8080/Infosport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"INFO SPORTS 1"},
+
+{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://212.102.60.80/Infosport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"INFO SPORTS 2"},
 
 {"description":"axs tv est chaine televisee consacree aux sports de Combats..","sources":["https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDI5Mzlf/axstv.png","title":"AXS TV"},
 
@@ -87,10 +95,6 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 {"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"},
 
 {"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
-
-{"description":"BT SPORT 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
-
-{"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 3"},
 
 {"description":"MATCH HD est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchHD/index.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH HD"},
 
@@ -227,9 +231,7 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 
 
-{"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/39203.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 1"},
 
-{"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport2.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 2"},
 
 {"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport3.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
 
