@@ -84,9 +84,19 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTZf/ArenaSport5.png","title":"ARENA SPORTS 5"},
 
+{"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"},
+
+{"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
+
+{"description":"BT SPORT 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
+
+{"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 3"},
+
 {"description":"MATCH HD est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchHD/index.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH HD"},
 
 {"description":"MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchArena/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH ARENA"},
+
+{"description":"Fox Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/foxsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORTS 2"},
 
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://145.239.5.177:8080/529/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1 HD"},
 
@@ -200,23 +210,13 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 {"description":"TNT SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS 1"},
 
-{"description":"BT SPORT 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
-
-{"description":"BT SPORT 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 3"},
-
 {"description":"REDBULL TV est la chaine sportive qui se focalise aux Sports..","sources":["https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"REDBULL TV"},
 
 {"description":"NBA TV est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/nba/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"NBA HD"},
 
 {"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"},
 
-{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"},
-
-{"description":"Fox Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/foxsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORTS 2"},
-
-{"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"}
-
-{"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"}]}]}
+{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"}]}]}
 
 
 
