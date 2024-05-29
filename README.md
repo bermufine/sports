@@ -1,5 +1,7 @@
 # sports
-{"categories":[{"name":"Movies","videos":[{"description":"Canal+ Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/537/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jpg","title":"CANAL+ SPORT 1"},
+{"categories":[{"name":"Movies","videos":[{"description":"Wrestling WWE GLOBAL est une chaîne télévisée spécialisée au sports international.","sources":["http://185.59.221.131:8081/live/wwe/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WWE GLOBAL"},
+
+{"description":"Canal+ Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/537/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jpg","title":"CANAL+ SPORT 1"},
 
 {"description":"Canal+ Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/538/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png","title":"CANAL+ SPORT 2"},
 
@@ -51,41 +53,13 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"Amazon Prime 3est la chaine consacrée aux Sports et aux activités sportives....","sources":["http://145.239.5.177:8080/518/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTExMTJf/AmazonSportThree.jpg","title":"AMAZON PRIME 3"},
 
-{"description":"TNT SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS 1"},
-
 {"description":"Canal+ Foot 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://99.27.51.147:8080/Infosport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"INFO SPORTS 1"},
 
 {"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://212.102.60.80/Infosport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"INFO SPORTS 2"},
 
+{"description":"UFCNETWORK  est une chaine televisee 100% sports","sources":["https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"UFC NETWORK "},
+
 {"description":"axs tv est chaine televisee consacree aux sports de Combats..","sources":["https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDI5Mzlf/axstv.png","title":"AXS TV"},
-
-{"description":"Wrestling WWE GLOBAL est une chaîne télévisée spécialisée au sports international.","sources":["http://77.137.35.165:8000/play/a07v/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WWE GLOBAL"},
-
-{"description":"WWE NEXT est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE NEXT"},
-
-{"description":"WWE RAWE est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07w/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE RAW"},
-
-{"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING"},
-
-{"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://136.175.8.181:18000/0def8e4bdd2c457a83d1ebeb43d80376/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
-
-{"description":"UFCNETWORK  est une chaine televisee 100% sports","sources":["https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"UFCNETWORK "},
-
-{"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
-
-{"description":"Fox Sports 1 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-010/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk2Njlf/foxSport1.png","title":"FOX SPORTS 1"},
-
-{"description":"Fox Sports 2 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk0NzNf/foxSport2.jpeg","title":"FOX SPORTS 2"},
-
-{"description":"Premier Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-play/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MjBf/PremierSportTwo.jpg","title":"PREMIER SPORTS 2"},
-
-{"description":"Premier Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-world/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTlf/premierSportThree.jpg","title":"PREMIER SPORTS 3"},
-
-{"description":"Premier Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-action/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MThf/premierSportFour.jpg","title":"PREMIER SPORTS 4"},
-
-{"description":"Premier Sports 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-plus/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTdf/premierSportFive.jpg","title":"PREMIER SPORTS 5"},
-
-{"description":"Premier Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-prime/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTZf/premierSportOne.jpg","title":"PREMIER SPORTS 1"},
 
 {"description":"Real Madrid TV est la chaine de l'équipe de Real consacrée aux Sports et aux activités de l'équipe....","sources":["https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRID"},
 
@@ -96,18 +70,6 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 {"description":"ESPN 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-033/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY4NDVf/espntwo.jpg","title":"ESPN 2"},
 
 {"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MTFf/ESPN3.jpeg","title":"ESPN 3"},
-
-{"description":"ORT1 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/ort-tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"ORT1 TV"},
-
-{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDBf/arenaSport1.png","title":"ARENA SPORTS 1"},
-
-{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OThf/ArenaSport2.png","title":"ARENA SPORTS 2"},
-
-{"description":"Arena Sports 3 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjJf/ArenaSport3.png","title":"ARENA SPORTS 3"},
-
-{"description":"Arena Sports 4 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwOTVf/Arenasports4.png","title":"ARENA SPORTS 4"},
-
-{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTZf/ArenaSport5.png","title":"ARENA SPORTS 5"},
 
 {"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"},
 
@@ -230,7 +192,29 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 
 
 
+{"description":"WWE NEXT est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE NEXT"},
 
+{"description":"WWE RAWE est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07w/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE RAW"},
+
+{"description":"Fox Sports 1 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-010/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk2Njlf/foxSport1.png","title":"FOX SPORTS 1"},
+
+{"description":"Fox Sports 2 est une chaine televisee 100% sports","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzk0NzNf/foxSport2.jpeg","title":"FOX SPORTS 2"},
+
+{"description":"Premier Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-play/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MjBf/PremierSportTwo.jpg","title":"PREMIER SPORTS 2"},
+
+{"description":"Premier Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-world/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTlf/premierSportThree.jpg","title":"PREMIER SPORTS 3"},
+
+{"description":"Premier Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-action/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MThf/premierSportFour.jpg","title":"PREMIER SPORTS 4"},
+
+{"description":"Premier Sports 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-plus/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTdf/premierSportFive.jpg","title":"PREMIER SPORTS 5"},
+
+{"description":"Premier Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/sps-prime/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTg1NTk1MTZf/premierSportOne.jpg","title":"PREMIER SPORTS 1"},
+
+{"description":"Wrestling Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING"},
+
+{"description":"Wrestling WWE est une chaîne télévisée spécialisée au sports international.","sources":["http://136.175.8.181:18000/0def8e4bdd2c457a83d1ebeb43d80376/hls/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING WWE"},
+
+{"description":"Eurosports WWE est une chaine televisee 100% sports","sources":["https://youzontv-app.tk/discovery%2B/Eurosport.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"EUROSPORTS WWE"},
 
 {"description":"Canal+ Foot 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://cdn-main.lolokoko.tv/canalplussport3.stream/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIwOTVf/canal%2BFoot.png","title":"CANAL+ FOOT 3"},
 
@@ -241,6 +225,18 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport2hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTBf/diemasport2.jpg","title":"DIEMA SPORTS 2"},
 
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://93.155.227.38/m3u8/diemasport3hd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NzRf/diamaSport3.jpg","title":"DIEMA SPORTS 3"},
+
+{"description":"ORT1 TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://202.21.104.6:88/ort-tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDRf/canalPlusPremierLeague.jpg","title":"ORT1 TV"},
+
+{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MDBf/arenaSport1.png","title":"ARENA SPORTS 1"},
+
+{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OThf/ArenaSport2.png","title":"ARENA SPORTS 2"},
+
+{"description":"Arena Sports 3 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena3/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwNjJf/ArenaSport3.png","title":"ARENA SPORTS 3"},
+
+{"description":"Arena Sports 4 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwOTVf/Arenasports4.png","title":"ARENA SPORTS 4"},
+
+{"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTZf/ArenaSport5.png","title":"ARENA SPORTS 5"},
 
 {"description":"MATCH est la chaine sportive de la russie qui se focalise au championnat ive ive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH TV"},
 
