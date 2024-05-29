@@ -3,7 +3,7 @@
 
 {"description":"Canal+ Sports 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://145.239.5.177:8080/538/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjJf/canalPlusSportTwo.png","title":"CANAL+ SPORTS 2"},
 
-{"description":"Canal+ Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://185.59.221.131:8081/live/canalsport1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg","title":"CANAL+ SPORTS 3"},
+{"description":"Canal+ Sports 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://185.59.221.131:8081/live/canalsport3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg","title":"CANAL+ SPORTS 3"},
 
 {"description":"Canal+ Sports 4 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://185.59.221.131:8081/live/canalsport4/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTc5OTMwNjNf/canalPlusSportsThree.jpg","title":"CANAL+ SPORTS 4"},
 
