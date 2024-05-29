@@ -23,6 +23,7 @@
 
 {"description":"Nova Sports 6 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://5.9.148.210:8888/re-nvsp6/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MjYzNDhf/novasportsix.png","title":"NOVA SPORTS 6"},
 
+{"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://66.160.192.241/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
 
 {"description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....","sources":["http://145.239.5.177:8080/512/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png","title":"BEIN SPORTS 1"},
 
@@ -71,25 +72,13 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 
 {"description":"ESPN 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg2MTFf/ESPN3.jpeg","title":"ESPN 3"},
 
-{"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"},
-
-{"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
-
 {"description":"MATCH HD est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchHD/index.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH HD"},
 
 {"description":"MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://194.143.148.28/MatchArena/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH ARENA"},
 
-{"description":"Fox Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/foxsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORTS 2"},
-
 {"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://145.239.5.177:8080/529/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1 HD"},
 
-{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://93.155.227.38/m3u8/eurosporthd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1"},
-
 {"description":"Sports France est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI5OTY5NzZf/sportfran.png","title":"SPORTS FRANCE"},
-
-{"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 1"},
-
-{"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 2"},
 
 {"description":"Tigo Sports TV est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0NDA1NDJf/tigosports.jpeg","title":"TIGO SPORTS"},
 
@@ -98,99 +87,52 @@ league Angleterre est la chaine sportive qui se focalise au championnat internat
 {"description":"Trace Sports est une 
 chaîne télévisée spécialisée au sports international.","sources":["https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTRf/traceSport.png","title":"Trace Sports"},
 
-{"description":"Estado TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3NTVf/estado.jpeg","title":"ESTADO TV"},
-
-{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
-
-{"description":"TRT SPOR est la chaine sportive de la turqie qui se focalise au championnat turque aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://66.160.192.241/trtspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
-
-{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE"},
-
-{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL"},
-
 {"description":"Lax Sports Network est une chaîne télévisée spécialisée au sports international.","sources":["https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg","title":"LAX SPORTS NETWORK"},
 
 {"description":"Sports TV est la chaine sportive qui se focalise aux sports general international.","sources":["http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg","title":"SPORTS TV"},
 
 {"description":"B-Sports 2 est une chaîne télévisée spécialisée au sports international.","sources":["https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3Nzlf/b_sport2.jpg","title":"B-Sports 2"},
 
-{"description":"B-Sports 3 est une chaîne télévisée spécialisée au sports international.","sources":["https://a.jsrdn.com/broadcast/ab14783a09/+0000/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3NDVf/b_sport3.jpg","title":"B-Sports 3"},
-
-{"description":"B-Sports 4 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3Njhf/b_sport4.jpg","title":"B-Sports 4"},
-
-{"description":"B-Sports 7 est une chaîne télévisée spécialisée au sports international.","sources":["https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4MjZf/b_sport7.jpg","title":"B-SPORTS 7"},
-
 {"description":"Luzilandia TV est une chaine du Sports du brasil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA"},
 
-{"description":"TYC Sports  est la chaine sportive qui se focalise au championnat Americain avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-005/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTdf/tycSport.jpeg","title":"TYC SPORTS"},
+{"description":"REDBULL TV est la chaine sportive qui se focalise aux Sports..","sources":["https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"REDBULL TV"}]}]}
 
-{"description":"Super sports 2","sources":["http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"},
 
-{"description":"Fights Sports Sports est la chaine sportive des Etats-Unies qui se focalise au championnat International et Americain aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg","title":"FIGHTS TV"},
 
-{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108537.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxMjlf/canal%2BTopQuatorze.jpeg","title":"CANAL+ TOP14 FHD"},
 
-{"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125119.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxNTdf/canal%2BFormulaOne.jpeg","title":"CANAL+ FORMULA1 HD"},
 
-{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15147.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxOTZf/canal%2BMotoGp.png","title":"CANAL+ MOTO GP"},
 
-{"description":"RTSH Sports est la chaine sportive qui se focalise aux Sports....","sources":["http://79.106.48.2:5151/live/rtshsport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NjBf/rtshSport.png","title":"RTSH SPORTS"},
 
-{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"},
 
-{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/aiosport2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
+{"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 1"},
 
-{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/persiana.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"},
+{"description":"Eurosports 1 est une chaine televisee 100% sports","sources":["http://93.155.227.38/m3u8/eurosporthd.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODhf/eurosport1.jpeg","title":"EUROSPORTS 1"},
+
+{"description":"Fox Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/foxsport2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORTS 2"},
+
+{"description":"BT Sports 1 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport1HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 1"},
+
+{"description":"BT Sports 2 est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/BTSport2HD/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BT SPORTS 2"},
+
+{"description":"Equipe 21 tv est chaine televisee de la France consacree aux sports..","sources":["https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"L'EQUIPE 21 / 2"},
 
 {"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a06f/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 1"},
 
-{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a092/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 2"},
+{"description":"Estado TV est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc4MDQ3NTVf/estado.jpeg","title":"ESTADO TV"},
 
-{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a08h/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 3"},
+{"description":"A Sport tv est chaine televisee turque consacree aux sport..","sources":["http://66.160.192.241/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
 
-{"description":"Super sports 2","sources":["http://77.137.35.165:8000/play/a072/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"TESTING 4"},
+{"description":"CBC SPORT tv est chaine televisee turque consacree aux sports..","sources":["http://66.160.192.241/cbs/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE"},
 
+{"description":"Football est une chaîne télévisée spécialisée au sports international.","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL"},
 
-{"description":"TYC Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-005/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TYC SPORTS"},
+{"description":"TYC Sports  est la chaine sportive qui se focalise au championnat Americain avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct....","sources":["http://168.227.22.18:1935/live/mobile-005/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTdf/tycSport.jpeg","title":"TYC SPORTS"},
 
-{"description":"TNT SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-143/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"TNT SPORTS"},
+{"description":"Fights Sports Sports est la chaine sportive des Etats-Unies qui se focalise au championnat International et Americain aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg","title":"FIGHTS TV"},
 
-{"description":"FOX DEPORTES est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-104/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX DEPORTES"},
+{"description":"Sport 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/aiosport2.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4MzRf/sporttwo.png","title":"SPORTS 2"},
 
-{"description":"FOX SPORT MAX est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-010/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX SPORT MAX"},
-
-{"description":"FOX SPORTS MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-031/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX MAX 2"},
-
-{"description":"FOX SPORTS MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-108/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"FOX MAX 3"},
-
-{"description":"ESPN MAX est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-032/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX"},
-
-{"description":"ESPN MAX 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-033/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX 2"},
-
-{"description":"ESPN MAX 3 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN MAX 3"},
-
-{"description":"SSC 1 HD est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a05x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 1HD"},
-
-{"description":"SSC 1 EXTRAS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a07g/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 1 EXTRAS"},
-
-{"description":"SSC 2 HD est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a05n/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 2 HD"},
-
-{"description":"SSC 3 HD est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://77.137.35.165:8000/play/a074/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"SSC 3 HD"},
-
-{"description":"REDBULL TV est la chaine sportive qui se focalise aux Sports..","sources":["https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"REDBULL TV"},
-
-{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"},
-
-{"description":"ESPN HD est la chaine sportive qui se focalise aux Sports..","sources":["http://185.177.125.251:8080/espn2/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"ESPN HD"}]}]}
-
-
-
-
-
-
-
-
-
+{"description":"Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["https://af.ayas.ir/hls2/persiana.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTM1Nzc4Mjlf/sporttree.png","title":"SPORTS 3"}
 
 {"description":"WWE NEXT est une chaine televisee 100% sports","sources":["http://77.137.35.165:8000/play/a07x/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI0Mzk0ODVf/EuroWwe.jpeg","title":"WWE NEXT"},
 
@@ -237,6 +179,16 @@ chaîne télévisée spécialisée au sports international.","sources":["https:/
 {"description":"Arena Sports 4 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena4/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc3MzEwOTVf/Arenasports4.png","title":"ARENA SPORTS 4"},
 
 {"description":"Arena Sports 2 est la chaine sportive consacrée footbal aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://93.87.46.142:7566/arena5/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1OTZf/ArenaSport5.png","title":"ARENA SPORTS 5"},
+
+{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/108537.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxMjlf/canal%2BTopQuatorze.jpeg","title":"CANAL+ TOP14 FHD"},
+
+{"description":"Sports 8 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/125119.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxNTdf/canal%2BFormulaOne.jpeg","title":"CANAL+ FORMULA1 HD"},
+
+{"description":"Sports 9 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15147.ts"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTczMTIxOTZf/canal%2BMotoGp.png","title":"CANAL+ MOTO GP"},
+
+{"description":"RTSH Sports est la chaine sportive qui se focalise aux Sports....","sources":["http://79.106.48.2:5151/live/rtshsport/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NjBf/rtshSport.png","title":"RTSH SPORTS"},
+
+{"description":"Super sports 2","sources":["http://102.129.84.20:8000/play/a01u/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5Mzg1NTZf/supersport2India.png","title":"SUPER SPORTS 2"},
 
 {"description":"MATCH est la chaine sportive de la russie qui se focalise au championnat ive ive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les  matchs en direct et aussi les mercato..","sources":["http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8"],"subtitle":"ByChannel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg","title":"MATCH TV"},
 
