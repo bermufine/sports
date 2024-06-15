@@ -11,6 +11,8 @@
 
 {"description":"Canal+ Sports 5 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....","sources":["http://185.59.221.131:8081/live/canalsport5/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MjcwNDVf/canalpluscinqs.png","title":"CANAL+ SPORT 5"},
 
+{"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportmaximo1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNjA2NzVf/supersportmaximo1.jpeg","title":"SUPER SPORT MAXIMO 1"},
+
 {"description":"Super Sport Action","sources":["http://185.59.221.131:8081/live/supersportaction/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png","title":"SUPER SPORT ACTION"},
 
 {"description":"Super Sport Blitz","sources":["http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg","title":"SUPER SPORT BLITZ"},
